@@ -99,8 +99,8 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`userid`, `username`, `password`, `uname`, `photo`, `access`) VALUES
 (1, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'Admin', '', 1),
-(2, 'lee', '7e0d7f8a5d96c24ffcc840f31bce72b2', 'lee', '', 2),
-(3, 'julyn', 'bf70c261981e1708530982d56d2e8e01', 'julyn', '', 2);
+(2, 'aakash', 'a870c4012ce2eaa3b60a4c59cb786f76', 'aakash', '', 2),
+(3, 'test1', '5a105e8b9d40e1329780d62ea2265d8a', 'test1', '', 2);
 
 --
 -- Indexes for dumped tables

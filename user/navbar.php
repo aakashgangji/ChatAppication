@@ -1,7 +1,6 @@
 <nav class="navbar navbar-default">
     <div class="container-fluid">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="https://www.sourcecodester.com/user/224918/track">Sourcecodester || Simple Chat System</a>
 		</div>
 		
 		<ul class="nav navbar-nav">
